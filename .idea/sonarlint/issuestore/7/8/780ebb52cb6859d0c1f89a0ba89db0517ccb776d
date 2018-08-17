@@ -1,0 +1,23 @@
+
+Fsquid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÙ½ëÑ,
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(î–‹½ıÿÿÿÿ8ÜÙ½ëÑ,
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸É™ëÑ,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜŸ¼Ë
+Fsquid:S1604"(Make this anonymous inner class a lambda(î­¸¤8³Ù²ëÑ,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ƒü‰ø8–ÂšëÑ,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8ÜÙ½ëÑ,
+gsquid:S2147,"DCombine this catch with the one at line 42, which has the same body.(†«”Ïüÿÿÿÿ8šâšëÑ,
+dsquid:S2142:"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÜÙ½ëÑ,
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(©¥”üÿÿÿÿ8Ğà§ëÑ,
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(æŠé8ÜÙ½ëÑ,
+Fsquid:S1604"(Make this anonymous inner class a lambda(·Ü»…8¸É™ëÑ,
+U
+squid:S106$"9Replace this use of System.out or System.err by a logger.(äêÙ8äïœëÑ,
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(¾©áó8¬¥©ëÑ,
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šâšëÑ,
+dsquid:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¸É™ëÑ,
