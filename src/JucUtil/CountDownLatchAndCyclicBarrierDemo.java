@@ -19,7 +19,7 @@ public class CountDownLatchAndCyclicBarrierDemo {
         CyclicBarrier cyclicBarrier = new CyclicBarrier(10, new Runnable() {
             @Override
             public void run() {
-
+                System.out.println("继续执行");
             }
         }); // 10个运动员
         CountDownLatch start = new CountDownLatch(1);

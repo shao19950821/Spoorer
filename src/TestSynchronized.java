@@ -5,8 +5,15 @@
  * @Modified By:
  */
 
-/*
-，当某个方法加上synchronized关键字后，就表明要获得该内置锁才能执行，并不能阻止其他线程访问不需要获得该内置锁的方法。
- */
 public class TestSynchronized {
+
+    public synchronized void test1() {
+
+    }
+
+    public void test2() {
+        synchronized (this) {
+
+        }
+    }
 }
