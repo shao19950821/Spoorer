@@ -1,11 +1,11 @@
-package JVM;
+package jvm;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * @Author: qixiang.shao
- * @Description: JVM oom测试
+ * @Description: jvm oom测试
  * @Date: Created in 23:41 2018/9/2
  * @Modified By:
  */
